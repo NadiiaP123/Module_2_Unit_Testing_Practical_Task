@@ -1,6 +1,6 @@
 # Number Of Characters Task (C#)
 
-Console application developed using TDD aproach.
+Console application developed using TDD approach.
 
 ##  Task Description
 
@@ -15,8 +15,8 @@ The application provides methods for analyzing a string:
   - `Program.cs` – console interaction with the user  
   - `NumberOfCharacters.cs` – methods for string processing  
 
-  - **NumberOfCharactersTaskTests/**  
-  - Contains unit tests for each method (MSTest)
+- **NumberOfCharactersTaskTests/**  
+    - Contains unit tests for each method (MSTest)
 
   ## Testing
 
@@ -38,9 +38,9 @@ The application provides methods for analyzing a string:
 
   ## Technologies
 
-    C#
-    .NET 10
-    MSTest
+    - C#
+    - .NET 10
+    - MSTest
 
 
        
