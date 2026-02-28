@@ -18,7 +18,7 @@ The application provides methods for analyzing a string:
 - **NumberOfCharactersTaskTests/**  
     - Contains unit tests for each method (MSTest)
 
-  ## Testing
+## Testing
 
   Unit tests are implemented using **MSTest**.
 
@@ -26,7 +26,7 @@ The application provides methods for analyzing a string:
 
   Total tests: 45
 
-  ## How to Run
+## How to Run
 
   Build the solution:
 
@@ -36,11 +36,11 @@ The application provides methods for analyzing a string:
 
     `dotnet test`
 
-  ## Technologies
+## Technologies
 
-    - C#
-    - .NET 10
-    - MSTest
+  - C#
+  - .NET 10
+  - MSTest
 
 
        
